@@ -1,7 +1,7 @@
 {
     "name" : "Disable Notification List",
     "description" : "Disables the GNOME Notification List",
-    "shell-version" : [ "46.0" ],
+    "shell-version" : [ "47.0" ],
     "url" : "https://github.com/tk154/gnome-disable-notification-list",
     "uuid" : "disable-notification-list@tk154",
     "version" : 1.0
